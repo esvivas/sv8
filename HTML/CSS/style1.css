@@ -1,0 +1,21 @@
+body{
+    background-color: azure;    
+}
+
+header{
+    text-align: center;
+    height: max-content;
+    color: #EEEEEE;
+}
+
+nav{
+    text-align: center;
+    font-size: larger;
+    padding: 3rem;
+
+}
+
+footer{
+    text-align: center;
+    padding: 5rem;
+}
