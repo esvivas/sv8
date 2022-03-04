@@ -1,0 +1,11 @@
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\bin\Debug\proyecto15.1.exe.config
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\bin\Debug\proyecto15.1.exe
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\bin\Debug\proyecto15.1.pdb
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15.1.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15._1.Form1.resources
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15._1.Properties.Resources.resources
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15.1.csproj.GenerateResource.cache
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15.1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15.1.exe
+C:\Users\Estudiante\Documents\sv8\C#\proyecto15.1\proyecto15.1\obj\Debug\proyecto15.1.pdb
