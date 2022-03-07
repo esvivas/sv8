@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css\styles.css">
+    <link rel="shortcut icon" href="..\assets/favicon.ico" type="image/x-icon">
+    <title>Home</title>
+</head>
+
+<body>
+    <header> <img src="..\assets\hmtl5logo.png" alt="" height="700rem" width="100%"></header>
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">¿Quiénes somos?</a></li>
+            <li><a href="#">Servicios</a>
+                <ul>
+                    <li><a href="">Servicio 1</a></li>
+                    <li><a href="">Servicio 2</a></li>
+                    <li><a href="">Servicio 3</a></li>
+                </ul>
+            </li>
+            <li><a href="formularios.html">Formularios</a></li>
+        </ul>
+    </nav>
+    <section style="text-align: center;">
+        <h2>Formularios</h2>
+        <form action="formularios.html" method="get">
+            <table border="7" align="center" bordercolor="lightblue" cellspacing="15" cellpadding="10">
+                <tr>
+                    <th colspan="2">DATOS PERSONALES</th>
+                </tr>
+                <tr>
+                    <th>Nombre</th>
+                    <td><input type="text" name="nombre"></td>
+                </tr>
+                <tr>
+                    <th>Apellido</th>
+                    <td><input type="text" name="apellido"></td>
+                </tr>
+                <tr>
+                    <th>Login</th>
+                    <td><input type="text" name="login"></td>
+                </tr>
+                <tr>
+                    <th>Password</th>
+                    <td><input type="password" name="password"></td>
+                </tr>
+                <tr>
+                    <td><input class="button" type="submit" name="enviar" value="Enviar"></td>
+                    <td><input class="button-reset" type="reset" name="restablecer" value="Restablecer"></td>
+                </tr>
+            </table>       
+        </form>
+    </section>
+    <aside></aside>
+    <footer></footer>
+
+</body>
+
+</html>
