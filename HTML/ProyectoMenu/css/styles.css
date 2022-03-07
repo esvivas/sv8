@@ -7,8 +7,8 @@
 
 nav a {
     text-decoration: none;
-    color: inherit;
     font-size: 14px;
+    color: inherit;
 }
 
 nav li {
@@ -19,7 +19,7 @@ nav li {
     background-color: #000;
     border: 1px solid #812200;
     text-align: center;
-    color: #fff;
+    color: rgba(255, 255, 255, 0.705);
     position: relative;
 }
 

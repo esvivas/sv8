@@ -26,7 +26,7 @@
             <li><a href="formularios.html">Formularios</a></li>
         </ul>
     </nav>
-    <section style="text-align: center;">
+    <section>
         <h2>Formularios</h2>
         <form action="formularios.html" method="get">
             <table border="7" align="center" bordercolor="lightblue" cellspacing="15" cellpadding="10">
@@ -48,6 +48,40 @@
                 <tr>
                     <th>Password</th>
                     <td><input type="password" name="password"></td>
+                </tr>
+                <tr>
+                    <th>Género</th>
+                    <td>Masculino<input type="radio" name="genero" value="0" checked>
+                        Femenino<input type="radio" name="genero" value="1">
+                        No binario<input type="radio" name="genero" value="2"></td>
+                </tr>
+                <tr>
+                    <th>Hobbies</th>
+                    <td>Programar<input type="checkbox" name="programar" value="programar">
+                        Deportes<input type="checkbox" name="deporte" value="deportes">
+                        Novelas<input type="checkbox" name="novelas" value="novelas"></td>
+                </tr>
+                <tr>
+                    <th>Idiomas</th>
+                    <td><select name="idioma" id="idiomas">
+                        <option value="Español">Español</option>
+                        <option value="Inglés">Inglés</option>
+                        <option value="Alemán">Alemán</option>
+                        <option value="Latín">Latín</option>
+                        <option value="Latín">Mandarín</option>
+                    </select></td>
+                </tr>
+                <tr>
+                    <th>Fecha</th>
+                    <td><input type="Date" name="fecha"></td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td><input type="email" placeholder="alguien@gmail.com" name="email" required></td>
+                </tr>
+                <tr>
+                    <th>Comidas</th>
+                    <td><input type="range" min="0" max="11" value="0" step="2" name="comidas"></td>
                 </tr>
                 <tr>
                     <td><input class="button" type="submit" name="enviar" value="Enviar"></td>
