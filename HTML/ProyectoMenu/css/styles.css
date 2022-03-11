@@ -59,7 +59,7 @@ nav li:hover>ul{
 }
 
 a:visited{
-    color: rgb(226, 226, 226);
+    color: inherit;
 }
 
 .button {

@@ -1,0 +1,8 @@
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\bin\Debug\practica20.exe.config
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\bin\Debug\practica20.exe
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\bin\Debug\practica20.pdb
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\obj\Debug\practica20.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\obj\Debug\practica20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\obj\Debug\practica20.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\obj\Debug\practica20.exe
+C:\Users\Estudiante\Documents\sv8\C#\practica20\practica20\obj\Debug\practica20.pdb
