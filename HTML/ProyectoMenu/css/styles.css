@@ -1,5 +1,4 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,21 +9,21 @@ nav a {
     text-decoration: none;
     font-size: 20px;
     color: inherit;
-    
+
 }
 
-table{
+table {
     border-collapse: collapse;
     border: 1px solid;
     width: 35%;
-    
+
 }
 
-tr{
+tr {
     height: 2.5rem;
 }
 
-h2{
+h2 {
     padding: 2rem;
     font-size: 4rem;
 }
@@ -47,18 +46,18 @@ nav li:hover {
     color: #000;
 }
 
-nav li>ul{
+nav li>ul {
     display: none;
 }
 
-nav li:hover>ul{
+nav li:hover>ul {
     display: block;
     position: absolute;
     top: 30px;
     left: 0px;
 }
 
-a:visited{
+a:visited {
     color: inherit;
 }
 
@@ -70,19 +69,22 @@ a:visited{
     background-color: white;
     border: 2px solid #4CAF50;
 }
-.input-text{
+
+.input-text {
     width: 80%;
     height: 2rem;
 }
 
-input.button{
+input.button {
     margin: 2.5rem;
 }
-  
+
 .button:hover {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50;
+    /* Green */
     color: white;
 }
+
 .button-reset {
     transition-duration: 0.4s;
     font-size: 15px;
@@ -90,14 +92,39 @@ input.button{
     padding: 10px 20px;
     background-color: white;
     border: 2px solid #f44336;
-  }
-  
+}
+
 .button-reset:hover {
-    background-color: #f44336; /* Green */
+    background-color: #f44336;
+    /* Green */
     color: white;
 }
 
-.title{
+.title {
     color: #fff;
     font-style: semi-bold;
+}
+
+#titulo {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(0, 74, 173, 1) 35%, rgba(98, 198, 236, 1) 100%);
+    
+    padding: 10px;
+}
+
+hr {
+    border-width: 10px;
+    border-style: solid;
+    background-image: linear-gradient(90deg, red, transparent);
+}
+
+.content {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 71, 121, 1) 43%, rgba(193, 244, 255, 0.5298494397759104) 100%);
+    border-radius: 50px;
+    
+}
+
+.parrafo{
+    font-size: 1.5rem;
 }
